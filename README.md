@@ -11,6 +11,8 @@ python train.py --dataset 'snippets'
 
 You can change the ```--dataset``` to ```mr``` to train another dataset.
 
+We provide the `original datasets` used in our work, along with the `preprocess.py` script to convert the raw data into the required target format.
+
 ## Related Work
 Our related work can be found here: [GIFT](https://github.com/KEAML-JLU/GIFT) and [MI-DELIGHT](https://github.com/KEAML-JLU/MI-DELIGHT).
 ## Cite
